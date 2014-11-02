@@ -1,7 +1,9 @@
 Multi parts posts
 -----------------
 
-The multi-part posts plugin allow you to write multi-part posts.
+This plugin has been deprecated. See the [series plugin](https://github.com/getpelican/pelican-plugins/tree/master/series) for a better support of multi part articles.
+
+The multi-part posts plugin allows you to write multi-part posts.
 
 In order to mark posts as part of a multi-part post, use the `:parts:` metadata:
 
